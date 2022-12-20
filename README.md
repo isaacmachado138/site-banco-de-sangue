@@ -1,6 +1,4 @@
-# Título do projeto
-
-Doe Sangue
+# Projeto "Doe Sangue!"
 
 ### ⌨️ Descrição
 
