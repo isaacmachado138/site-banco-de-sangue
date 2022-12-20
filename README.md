@@ -13,7 +13,7 @@ Foi um projeto desenvolvido no ano de 2020, em um trabalho de conclusão de curs
 Mencione as ferramentas que você usou para criar seu projeto
 
 * [Bootstrap](https://getbootstrap.com/) - O framework web usado
-* [HTML]        - A linguagem utilizada
-* [CSS]         - Utilizado para estilização do site e de alguns componentes
-* [JavaScript]  - Utilizado para executar funções após a página ser carregada
-* [SQL]         - Utilizado para criar o banco de dados e salvar as informações do projeto
+* HTML        - A linguagem utilizada
+* CSS         - Utilizado para estilização do site e de alguns componentes
+* JavaScript  - Utilizado para executar funções após a página ser carregada
+* SQL         - Utilizado para criar o banco de dados e salvar as informações do projeto
